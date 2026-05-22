@@ -1,0 +1,122 @@
+[
+  {
+    "model_label": 0,
+    "raw_label": 0,
+    "class_name": "LFM",
+    "num_samples_true": 220,
+    "num_correct_within_class": 215,
+    "accuracy_within_true_class_pct": 97.72727272727273,
+    "num_predicted_as_class": 219,
+    "precision_when_predicted_as_class_pct": 98.17351598173516
+  },
+  {
+    "model_label": 1,
+    "raw_label": 1,
+    "class_name": "AM",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  },
+  {
+    "model_label": 2,
+    "raw_label": 2,
+    "class_name": "COMB",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  },
+  {
+    "model_label": 3,
+    "raw_label": 3,
+    "class_name": "FM",
+    "num_samples_true": 220,
+    "num_correct_within_class": 215,
+    "accuracy_within_true_class_pct": 97.72727272727273,
+    "num_predicted_as_class": 219,
+    "precision_when_predicted_as_class_pct": 98.17351598173516
+  },
+  {
+    "model_label": 4,
+    "raw_label": 4,
+    "class_name": "ISRJ",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 221,
+    "precision_when_predicted_as_class_pct": 99.5475113122172
+  },
+  {
+    "model_label": 5,
+    "raw_label": 5,
+    "class_name": "MNJ",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  },
+  {
+    "model_label": 6,
+    "raw_label": 6,
+    "class_name": "RGPO",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  },
+  {
+    "model_label": 7,
+    "raw_label": 7,
+    "class_name": "RMT",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  },
+  {
+    "model_label": 8,
+    "raw_label": 8,
+    "class_name": "R_VGPO",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  },
+  {
+    "model_label": 9,
+    "raw_label": 9,
+    "class_name": "SMSP",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  },
+  {
+    "model_label": 10,
+    "raw_label": 10,
+    "class_name": "VGPO",
+    "num_samples_true": 220,
+    "num_correct_within_class": 219,
+    "accuracy_within_true_class_pct": 99.54545454545455,
+    "num_predicted_as_class": 221,
+    "precision_when_predicted_as_class_pct": 99.09502262443439
+  },
+  {
+    "model_label": 11,
+    "raw_label": 11,
+    "class_name": "VMT",
+    "num_samples_true": 220,
+    "num_correct_within_class": 220,
+    "accuracy_within_true_class_pct": 100.0,
+    "num_predicted_as_class": 220,
+    "precision_when_predicted_as_class_pct": 100.0
+  }
+]

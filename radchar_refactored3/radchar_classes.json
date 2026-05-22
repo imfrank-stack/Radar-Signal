@@ -1,0 +1,17 @@
+{
+  "description": "12 种雷达干扰信号类型",
+  "entries": [
+    {"raw_label": 0, "name": "LFM", "enabled": true},
+    {"raw_label": 1, "name": "AM", "enabled": true},
+    {"raw_label": 2, "name": "COMB", "enabled": true},
+    {"raw_label": 3, "name": "FM", "enabled": true},
+    {"raw_label": 4, "name": "ISRJ", "enabled": true},
+    {"raw_label": 5, "name": "MNJ", "enabled": true},
+    {"raw_label": 6, "name": "RGPO", "enabled": true},
+    {"raw_label": 7, "name": "RMT", "enabled": true},
+    {"raw_label": 8, "name": "R_VGPO", "enabled": true},
+    {"raw_label": 9, "name": "SMSP", "enabled": true},
+    {"raw_label": 10, "name": "VGPO", "enabled": true},
+    {"raw_label": 11, "name": "VMT", "enabled": true}
+  ]
+}
